@@ -12,7 +12,7 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 ## Projects
 | Project | Stack | Highlights |
 |---|---|---|
-| [BloodLink](https://bloodlink-s5d7.onrender.com) | MERN Stack (React, Node.js, Express, MongoDB) | Full-stack blood donor & inventory management platform — JWT auth with role-based access, deployed live with a REST API backend and MongoDB Atlas on render |
+| [BloodLink](https://github.com/RehabTariqq/BloodLink) | MERN Stack (React, Node.js, Express, MongoDB) | Full-stack blood donor & inventory management platform — JWT auth with role-based access, deployed live with a REST API backend and MongoDB Atlas on render |
 | [Bone Age Report](https://bone-age-report--07rehabtariq.replit.app/) | Web App · C++ | Live, publicly deployed on Replit |
 | [Echos and Ink](https://funny-pothos-a58c9d.netlify.app/) | C++, OOP |  Create/view/search/delete entries, date-stamping, keyword search, modular multi-file design, Live, publicly deployed on Netlify |
 | [Train Booking System](https://github.com/RehabTariqq) | C++ · OOP | Classes for Train, Seat, Passenger, Booking; inheritance for train types with overridden fare calculation; file handling for persistent records |
