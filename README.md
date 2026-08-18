@@ -35,7 +35,8 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 - **AI for Social Impact** — Certificate of Completion
 - **GDG Code Rush** — Google Developer Group coding competition, participant
 - **Cisco Introduction to Networks (ITN)** — CCNA track
-
+- **Introduction to Data Science (CNA)** Certificate of Completion
+- **Prompt Engineering for AI Applications (Alison)** - Certificate of Completion
 ---
 
 ## Currently Learning
