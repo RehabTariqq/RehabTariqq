@@ -19,7 +19,7 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 | [Personal Portfolio Website](https://github.com/RehabTariqq) | HTML5 | Semantic multi-section layout — About, Skills, Projects, Contact |
 | [Network Topology Simulation](https://github.com/RehabTariqq) | Cisco Packet Tracer | Small office network with IP addressing, subnetting, and static routing; verified connectivity via ping/traceroute |
 | [Number Guessing Game](https://github.com/RehabTariqq) | C++ | Console-based game with randomized target number, input validation, and limited-attempt logic |
-| [Gene Tracker](https://github.com/RehabTariqq) | C++ | Tracks and manages gene/data records with structured storage and lookup functionality |
+| [Gene Tracker](https://github.com/RehabTariqq/Gene-Tracker) | C++ | Tracks and manages gene/data records with structured storage and lookup functionality |
 
 ---
 
