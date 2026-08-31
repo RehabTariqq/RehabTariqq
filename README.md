@@ -47,4 +47,4 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 ---
 
 ## Connect
-🌐 [Portfolio](https://github.com/RehabTariqq) · [LinkedIn](https://www.linkedin.com/in/rehabtariq/) · [GitHub](https://github.com/RehabTariqq) · rehabtariqq@gmail.com
+🌐 [Portfolio](https://iridescent-daifuku-5b22dd.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/rehabtariq/) · [GitHub](https://github.com/RehabTariqq) · rehabtariqq@gmail.com
