@@ -31,6 +31,7 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 ---
 
 ## Certifications
+- **Web Application Development (MERN Stack)** — NIIT (NASTP Institute of Information Technology) 
 - **AI for Social Impact** — Certificate of Completion
 - **GDG Code Rush** — Google Developer Group coding competition, participant
 - **Cisco Introduction to Networks (ITN)** — CCNA track
