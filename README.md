@@ -29,6 +29,14 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 
 ---
 
+## Currently Learning
+
+* **Data Structures & Algorithms**
+* **MERN Stack & Full-Stack Development**
+* **AI Engineering — RAG Systems, LLMs & AI Agents**
+---
+
+
 ## Certifications
 - **Web Application Development (MERN Stack)** — NIIT (NASTP Institute of Information Technology) 
 - **AI for Social Impact** — Certificate of Completion
@@ -38,14 +46,8 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 - **Prompt Engineering for AI Applications (Alison)** - Certificate of Completion
 ---
 
-## Currently Learning
-
-* **Data Structures & Algorithms**
-* **MERN Stack & Full-Stack Development**
-* **AI Engineering — RAG Systems, LLMs & AI Agents**
 
 
----
 
 ## Connect
 🌐 [Portfolio](https://iridescent-daifuku-5b22dd.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/rehabtariq/) · [GitHub](https://github.com/RehabTariqq) · rehabtariqq@gmail.com
