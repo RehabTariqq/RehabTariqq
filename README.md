@@ -40,10 +40,11 @@ A MERN stack web application connecting blood donors with people in need. *Blood
 ---
 
 ## Currently Learning
-- **Data Structures & Algorithms**
-- **MERN Stack**
-- **Advanced Networking Concepts**
-- **AI Fundamentals**
+
+* **Data Structures & Algorithms**
+* **MERN Stack & Full-Stack Development**
+* **AI Engineering — RAG Systems, LLMs & AI Agents**
+
 
 ---
 
