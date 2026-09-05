@@ -4,8 +4,10 @@ CS student at NASTP Institute of Information Technology (NIIT), Lahore. Currentl
 ---
 
 ## What I'm working on
-**BloodLink**  
-A MERN stack web application connecting blood donors with people in need. *Blood donation saves lives — many patients facing surgeries, accidents, chronic illnesses, or childbirth complications depend on timely access to donors, and BloodLink aims to make that connection faster and easier when it matters most.*
+
+**BloodLink** — Building a MERN-based platform connecting blood donors with people in need.
+---
+**MedExtract** — Building an AI-powered medical document intelligence system on **Linux**, using RAG, vector search, and AI agents to analyze medical reports and answer grounded questions.
 
 ---
 
