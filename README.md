@@ -10,7 +10,6 @@ CS student at NASTP Institute of Information Technology (NIIT), Lahore. Currentl
 ---
 
 ## Projects
-## Projects
 
 | Project                                                                | Stack             | Highlights                                                       |
 | ---------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------- |
