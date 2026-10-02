@@ -11,16 +11,15 @@ CS student at NASTP Institute of Information Technology (NIIT), Lahore. Currentl
 
 ## Projects
 
-| Project                                                                | Stack             | Highlights                                                  |
-| ---------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------- |
-| **[MedExtract](https://github.com/RehabTariqq/MedExtract)**                                | AI · NLP · Python | Medical text extraction · Structured data|
-| **[BloodLink](https://github.com/RehabTariqq/BloodLink)**              | MERN              | Blood management · JWT RBAC · REST API · MongoDB            |
-| **[Vision Text](https://github.com/RehabTariqq/VisionText)**                               | AI · OCR · Python | Image-to-text extraction · DecodeLabs Internship|
-| **[Bone Age Report](https://github.com/RehabTariqq/Bone-Age-Tracker)** | C++ · Web         | Bone-age assessment · Live deployment                       |
-| **[Gene Tracker](https://github.com/RehabTariqq/Gene-Tracker)**        | C++ · OOP         | Gene-data management · Validation · Search · Statistics     |
-| **[Train Booking System](https://github.com/RehabTariqq)**             | C++ · OOP         | Booking system · Inheritance · Polymorphism · File handling |
-
-
+| Project                                                                          | Stack             | Highlights                                                  |
+| -------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------- |
+| [MedExtract](https://github.com/RehabTariqq/MedExtract)                          | AI · NLP · Python | Medical text extraction · Structured data               
+  |
+| [BloodLink](https://github.com/RehabTariqq/BloodLink)                            | MERN              | Blood management · JWT RBAC · REST API · MongoDB            |
+| [Recommendation System](https://github.com/RehabTariqq/AI-Recommendation-System) | ML · Python       | Personalized recommendations · DecodeLabs Internship        |
+| [Bone Age Report](https://github.com/RehabTariqq/Bone-Age-Tracker)               | C++ · Web         | Bone-age assessment · Live deployment                       |
+| [Gene Tracker](https://github.com/RehabTariqq/Gene-Tracker)                      | C++ · OOP         | Gene-data management · Validation · Search · Statistics     |
+| [Train Booking System](https://github.com/RehabTariqq/Train-Booking-System)      | C++ · OOP         | Booking system · Inheritance · Polymorphism · File handling |
 
 ---
 
