@@ -10,15 +10,17 @@ CS student at NASTP Institute of Information Technology (NIIT), Lahore. Currentl
 ---
 
 ## Projects
-| Project | Stack | Highlights |
-|---|---|---|
-| [BloodLink](https://github.com/RehabTariqq/BloodLink) | MERN Stack (React, Node.js, Express, MongoDB) | Full-stack blood donor & inventory management platform — JWT auth with role-based access, deployed live with a REST API backend and MongoDB Atlas on render |
-| [Bone Age Report](https://github.com/RehabTariqq/Bone-Age-Tracker) | Web App · C++ | Live, publicly deployed on Replit |
-| [Echos and Ink](https://funny-pothos-a58c9d.netlify.app/) | C++, OOP |  Create/view/search/delete entries, date-stamping, keyword search, modular multi-file design, Live, publicly deployed on Netlify |
-| [Train Booking System](https://github.com/RehabTariqq) | C++ · OOP | Classes for Train, Seat, Passenger, Booking; inheritance for train types with overridden fare calculation; file handling for persistent records |
-| [Network Topology Simulation](https://github.com/RehabTariqq) | Cisco Packet Tracer | Small office network with IP addressing, subnetting, and static routing; verified connectivity via ping/traceroute |
-| [Number Guessing Game](https://github.com/RehabTariqq/Number-guess) | C++ | Console-based game with randomized target number, input validation, and limited-attempt logic |
-| [Gene Tracker](https://github.com/RehabTariqq/Gene-Tracker) | C++ | Tracks and manages gene/data records with structured storage and lookup functionality |
+## Projects
+
+| Project                                                                | Stack             | Highlights                                                       |
+| ---------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------- |
+| **[MedExtract](https://github.com/RehabTariqq/MedExtract)**                                | AI · NLP · Python | Medical text → structured data extraction    |
+| **[BloodLink](https://github.com/RehabTariqq/BloodLink)**              | MERN              | Blood donor & inventory platform · JWT RBAC · REST API · MongoDB |
+| **[Bone Age Report](https://github.com/RehabTariqq/Bone-Age-Tracker)** | C++ · Web         | Bone-age assessment application · Live deployment                |
+| **[Gene Tracker](https://github.com/RehabTariqq/Gene-Tracker)**        | C++ · OOP         | Gene-data management · Validation · Search · Statistics          |
+| **[Train Booking System](https://github.com/RehabTariqq)**             | C++ ·             | Booking system · Inheritance · Polymorphism · File handling      |
+| **[Echos and Ink](https://funny-pothos-a58c9d.netlify.app/)**          | C++ · OOP         | Digital journal · CRUD · Search · Modular design                 |
+
 
 ---
 
