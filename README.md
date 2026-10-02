@@ -11,14 +11,14 @@ CS student at NASTP Institute of Information Technology (NIIT), Lahore. Currentl
 
 ## Projects
 
-| Project                                                                | Stack             | Highlights                                                       |
-| ---------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------- |
-| **[MedExtract](https://github.com/RehabTariqq/MedExtract)**                                | AI · NLP · Python | Medical text → structured data extraction    |
-| **[BloodLink](https://github.com/RehabTariqq/BloodLink)**              | MERN              | Blood donor & inventory platform · JWT RBAC · REST API · MongoDB |
-| **[Bone Age Report](https://github.com/RehabTariqq/Bone-Age-Tracker)** | C++ · Web         | Bone-age assessment application · Live deployment                |
-| **[Gene Tracker](https://github.com/RehabTariqq/Gene-Tracker)**        | C++ · OOP         | Gene-data management · Validation · Search · Statistics          |
-| **[Train Booking System](https://github.com/RehabTariqq)**             | C++ ·             | Booking system · Inheritance · Polymorphism · File handling      |
-| **[Echos and Ink](https://funny-pothos-a58c9d.netlify.app/)**          | C++ · OOP         | Digital journal · CRUD · Search · Modular design                 |
+| Project                   | Stack             | Highlights                                                  |
+| ------------------------- | ----------------- | ----------------------------------------------------------- |
+| **MedExtract**            | AI · NLP · Python | Medical text extraction · Structured data                   |
+| **BloodLink**             | MERN              | Blood management · JWT RBAC · REST API · MongoDB            |
+| **Recommendation System** | ML · Python       | Personalized recommendations · DecodeLabs Internship        |
+| **Bone Age Report**       | C++ · Web         | Bone-age assessment · Live deployment                       |
+| **Gene Tracker**          | C++ · OOP         | Gene-data management · Validation · Search · Statistics     |
+| **Train Booking System**  | C++ ·             | Booking system · Inheritance · Polymorphism · File handling |
 
 
 ---
