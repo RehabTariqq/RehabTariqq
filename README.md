@@ -5,7 +5,7 @@ CS student at NASTP Institute of Information Technology (NIIT), Lahore. Currentl
 
 ## What I'm working on
 
-[MedExtract](https://github.com/RehabTariqq/MedExtract) — Building an AI-powered medical document intelligence system on **Linux**, using RAG, vector search, and AI agents to analyze medical reports and answer grounded questions.
+[MedExtract](https://github.com/RehabTariqq/MedExtract) — Building an AI-powered medical document intelligence system on Linux, using RAG, vector search, and AI agents to analyze medical reports and answer grounded questions.
 
 ---
 
