@@ -1,4 +1,4 @@
-# Hi, I'm Rehab 
+# Hi, I'm Rehab    
 CS student at NASTP Institute of Information Technology (NIIT), Lahore. Currently in my 2nd year with a focus on C++, OOP, DSA, AI engineering, and the MERN stack — deliberately going wide across programming, web development, networking, and AI before picking a lane.
 
 ---
